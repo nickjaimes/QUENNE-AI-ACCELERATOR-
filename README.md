@@ -2,9 +2,7 @@
 
 Official Research Edition v1.0
 
-Here is your GitHub-safe, investor-safe, academically credible foundation.
 
-⸻
 
 🔹 QUENNE AI Accelerator
 
